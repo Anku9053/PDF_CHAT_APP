@@ -11,7 +11,7 @@ Django backend, Angular frontend: Upload PDFs, ask questions, get contextual res
 
 5. Run the Backend with python py.runserver
 
-6. Run the Frontend with ng serve
+6. Run the Frontend with ng serve 
  
 ## Tech Stack
 
