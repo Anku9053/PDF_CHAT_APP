@@ -1,18 +1,30 @@
-# PDF_CHAT_APP
-Django backend, Angular frontend: Upload PDFs, ask questions, get contextual responses. Seamless technology synergy for interactive document interaction
+# 🚀 PDF Chat App
 
-## Installation
+**Welcome to the PDF Chat App, where document interaction gets a futuristic makeover! This dynamic platform marries Django, Angular, and OpenAI magic, allowing users to effortlessly upload PDFs and engage in chat-based questioning. OpenAI brings documents to life with context-aware answers, ensuring a seamless and intuitive experience. Fast, innovative, and efficient, the PDF Chat App revolutionizes the way we interact with our documents. Dive in, upload, and let the chat begin!** 🚀💬
 
-1. First clone the repository to the local system
+## 🌐 Installation
 
-2. Download the required node modules by using npm i --legacy-peer-deps
+**Clone the Repository:**
 
-4. Go to your folder and cd/Homepage.html
+```bash
+git clone https://github.com/Anku9053/PDF_CHAT_APP.git
+cd Pdf_Chat_App
+npm install --legacy-peer-deps
+python manage.py runserver && ng serve
+```
+# 🛠️ Tech Stack
+Python | Django | Angular | OpenAI
 
-5. Run the Backend with python py.runserver
+# 🌟 Features
+#### PDF Uploads: Effortlessly upload your PDFs.
+#### Ask Questions: Interact intuitively with your documents.
+#### Contextual Responses: Leverage OpenAI for intelligent and context-aware answers.
+#### Seamless Synergy: Harmonious collaboration of technologies for an unparalleled user experience.
 
-6. Run the Frontend with ng serve 
- 
-## Tech Stack
+# ⚡ Quick Implementation
+Created in just two working days! 🚀
 
-Python | Django | Angular | Openai 
+# 🚀 Get Started!
+Experience the future of document interaction. Explore, chat, and innovate with PDF Chat App! 📄💬🚀
+
+Feel free to further customize this template with your specific details. Happy Learning! Happy coding!
