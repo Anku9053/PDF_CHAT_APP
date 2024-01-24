@@ -1,6 +1,6 @@
 # 🚀 PDF Chat App
 
-**Welcome to the PDF Chat App, where document interaction gets a futuristic makeover! This dynamic platform marries Django, Angular, and OpenAI magic, allowing users to effortlessly upload PDFs and engage in chat-based questioning. OpenAI brings documents to life with context-aware answers, ensuring a seamless and intuitive experience. Fast, innovative, and efficient, the PDF Chat App revolutionizes the way we interact with our documents. Dive in, upload, and let the chat begin!** 🚀💬
+**Welcome to the PDF Chat App, where document interaction gets a futuristic makeover! This dynamic platform marries Django, and OpenAI magic, allowing users to effortlessly upload PDFs and engage in chat-based questioning. OpenAI brings documents to life with context-aware answers, ensuring a seamless and intuitive experience. Fast, innovative, and efficient, the PDF Chat App revolutionizes the way we interact with our documents. Dive in, upload, and let the chat begin!** 🚀💬
 
 ## 🌐 Installation
 
